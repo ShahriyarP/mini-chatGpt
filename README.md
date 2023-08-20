@@ -1,1 +1,1 @@
-chatGpt version gpt3.5-turbo with React
+chatGpt version gpt3.5-turbo with React Typescript Tailwind
