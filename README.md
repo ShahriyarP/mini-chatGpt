@@ -1,1 +1,1 @@
-chatGpt whit React
+chatGpt React
