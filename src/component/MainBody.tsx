@@ -11,9 +11,6 @@ const MainBody = () => {
   const [chatHistory, setChatHistory] = useState<any>([]);
   const [showLoaingIcon, setShowLoaingIcon] = useState<boolean>(false);
 
-  /* const API_URL = process.env.API_URL as string;
-  const API_MODELL = process.env.API_MODELL as string;
-  const API_KEY = process.env.API_KEY as string; */
   const changeInputHandler = (e: any) => {
     setInputText(e.target.value);
   };
